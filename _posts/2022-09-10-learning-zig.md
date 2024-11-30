@@ -1,7 +1,6 @@
 ---
 title: Learning Zig
 date: 2022-09-10
-author: Nick Jacobs
 category: coding
 tags: zig journey
 ---
