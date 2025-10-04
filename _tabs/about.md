@@ -4,7 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Highland Cows was a company that I started in the early 2000s when I was doing contract work for a friend. When that gig wound down, I felt a degree of attachment to the domain and kept it for my professional presence on the web.
+## What’s with Highland Cows?
+Highland Cows is a company that I started in the early 2000s when I was doing contract work for a friend. That gig eventually wound down, but I felt a degree of attachment to the domain and kept it for my professional presence on the web.
 
 ## What I Do
 I'm a coder with 30+ years experience in the technology industry, the bulk
