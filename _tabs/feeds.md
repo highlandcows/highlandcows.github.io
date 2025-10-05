@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa fa-rss
-order: 5
+order: 4
 ---
 Blogs that I follow, all of which are accessible via RSS. If you find them interesting, consider adding them to your RSS reader and/or the feeds section of your own site.
 
