@@ -18,6 +18,6 @@ It took me a few days to get things set up with Jekyll and GitHub pages. Once yo
 
 ## Workflow for new content
 
-Posting new content is as simple as creating dated files in your local `_posts` directory, committing those to your local `git` repo and then pushing those changes to GitHub.
+Posting new content is as simple as creating dated files in my local `_posts` directory, committing those to my local `git` repo and then pushing those changes to GitHub.
 
 If you have questions about any of this, feel free to contact me. My email is at the bottom of navigation menu at left.
