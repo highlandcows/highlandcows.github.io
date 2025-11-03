@@ -5,7 +5,7 @@ category: engineering-manager
 tags: journey
 ---
 
-About 3 years ago, I was figuratively tapped on the shoulder and asked if I wanted to become an Engineering Manager (EM).  Up until that point, I had been an IC (Individual Contributor) and Tech Lead at my company. I had demonstrated skill in coaching and mentoring and I think he thought it might be a good next step for me.
+About 3 years ago, I was figuratively tapped on the shoulder and asked if I wanted to become an Engineering Manager (EM).  Up until that point, I had been an IC (Individual Contributor) and Tech Lead at my company. I had demonstrated skill in coaching and mentoring and I think the then EM lead thought it might be a good next step for me.
 
 But to become a competent EM  has taken time and I’ve made my fair share of missteps along the way. In reviewing and understanding those missteps, I found that aligning my team and myself around the following 3 sets of values and their associated behaviors went a long way towards addressing the mistakes I had made:
 
