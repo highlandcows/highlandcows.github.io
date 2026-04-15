@@ -66,4 +66,4 @@ My expectation, along with the experiences of my team at work, leads me to belie
 
 The non-determinism that LLMs demonstrate is a hard issue to build around, though. Determinism is a cornerstone of building commercial software. I suspect that the companies and teams who establish “good-enough” heuristics to overcome LLM non-determinism will be the winners, both in terms of velocity and reliability.
 
-In the meantime, I enjoying having a virtual “colleague” who indulges my need to do coding as a hobby.
+In the meantime, I am enjoying having a virtual “colleague” who indulges my need to do coding as a hobby.
