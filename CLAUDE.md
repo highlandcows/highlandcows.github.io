@@ -49,7 +49,7 @@ The `_plugins/posts-lastmod-hook.rb` plugin automatically sets `last_modified_at
 
 - **Theme**: `jekyll-theme-chirpy` gem — layout, assets, and most functionality come from the gem, not this repo.
 - **`_config.yml`**: Primary configuration. Site identity, social links, and theme settings are all here.
-- **`_tabs/`**: Top-level navigation pages (Archives, Categories, Tags).
+- **`_tabs/`**: Sidebar navigation pages, ordered by their `order` value (Categories, Tags, Archives, Feeds, Japanese Study, About). `japanese-study.html` is a redirect page: Chirpy builds each sidebar link from the tab's own URL, so an external destination (the Japanese study app on its own GitHub Pages site) needs a tiny page that redirects. It is `.html`, not `.md`, so Jekyll does not run it through Markdown.
 - **`_data/share.yml`**: Social sharing button configuration.
 - **`_site/`**: Build output — committed to the repo (contains pre-built JS assets from the theme).
 - **`tools/`**: Helper scripts excluded from Jekyll build.
